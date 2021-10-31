@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form input,textarea{
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid rgb(104, 104, 5);
+}
+

@@ -1,0 +1,10 @@
+.btn-price{
+    border: 1px solid rgb(53, 53, 236);
+    color: rgb(0, 0, 0);
+    padding: 7px;
+    border-radius: 5px;
+}
+.btn-price:hover{
+    background-color: rgb(53, 53, 236);
+    color: white;
+}
